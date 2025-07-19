@@ -1,1 +1,2 @@
 This is a temporary playground for learning about informational rather than instruction-based indirect prompt attacks. More information at https://www.youtube.com/watch?v=j5a0jTc9S10
+The repository title includes indirect prompt attacks spelled backwards.
